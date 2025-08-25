@@ -1,0 +1,5 @@
+streamlit==1.37.0
+mysql-connector-python==9.0.0
+pandas==2.2.2
+faker==25.2.0    # Only if you used Faker for dataset generation
+python-dotenv==1.0.1  # Only if you manage secrets with .env
